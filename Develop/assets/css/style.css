@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* this makes the header colour white */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* this makes the header colour white */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* this makes the header white */
 a {
     color: #ffffff;
     text-decoration: none;
