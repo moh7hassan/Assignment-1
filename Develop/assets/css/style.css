@@ -168,6 +168,10 @@ p {
 .online-reputation-management img {
     max-height: 200px;
 }
+.float-right{
+ float: right;
+ margin-left: 33px;   
+}
 
 .social-media-marketing img {
     max-height: 200px;
